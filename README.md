@@ -1,2 +1,2 @@
---This is a my first repository.--
---これは初めてのテスト用のリポジトリです。--
+**This is a my first repository.**  
+**これは初めてのテスト用のリポジトリです。**
